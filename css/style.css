@@ -1,0 +1,46 @@
+/* Basic */
+*{
+    font-family: 'Roboto', sans-serif;
+}
+/* Header */
+header{
+    height: 80px;
+    width: 100%;
+    background-color: blanchedalmond;
+    text-align: center;
+}
+/* Navication */
+.navigation{
+    width: 100%;
+    height: 80px;
+    background-color: rgb(209, 191, 191);
+    text-align: center;
+}
+
+/* Content */
+.content{
+    margin-top: 20px;
+    overflow: hidden;
+}
+.index{
+    width: 16%;
+    height: 360px;
+    background-color: darkgrey;
+    text-align: center;
+    float: left;
+}
+.content-section{
+    height: 360px;
+    width: 82%;
+    background-color: dimgrey;
+    text-align: center;
+    float: right;
+}
+
+/* footrt */
+.footer{
+    height: 140px;
+    width: 100%;
+    background-color: lawngreen;
+    text-align: center;
+}
